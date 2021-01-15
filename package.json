@@ -1,0 +1,22 @@
+{
+  "name": "jblum",
+  "version": "1.0.0",
+  "description": "Just myself, packed up for npm.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuablum/jblum.git"
+  },
+  "keywords": [
+    "jblum"
+  ],
+  "author": "Joshua Amadeus Blum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuablum/jblum/issues"
+  },
+  "homepage": "https://github.com/joshuablum/jblum#readme"
+}
